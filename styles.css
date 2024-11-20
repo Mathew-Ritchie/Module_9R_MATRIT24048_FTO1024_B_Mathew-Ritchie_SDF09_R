@@ -12,3 +12,13 @@ h1 {
 
 #message-el {
 }
+
+button {
+  background: goldenrod;
+  width: 150px;
+  color: #016f32;
+  border: none;
+  padding: 5px 0 5px 0;
+  font-weight: bold;
+  border-radius: 2px;
+}
